@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/03/18 10:09:29.000.824,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/18 10:09:57.000.014,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/18 10:18:05.000.934,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/18 11:37:20.000.979,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/14 15:43:38.000.394,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/22 09:17:46.000.365,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/22 09:25:05.000.549,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/20 10:53:02.000.057,=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/20 11:18:18.000.667,C:\Users\Vicente\Documents\corrige xml manual duplicado\Unit1.dfm=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/05/20 11:18:18.000.667,C:\Users\Vicente\Documents\corrige xml manual duplicado\Unit1.pas=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/20 11:18:21.000.477,C:\Users\Vicente\Documents\corrige xml manual duplicado\Project1.dproj=C:\Users\Vicente\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

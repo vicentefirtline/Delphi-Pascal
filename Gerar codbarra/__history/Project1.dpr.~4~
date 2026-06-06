@@ -1,0 +1,14 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  frmgerarcodbarra in 'frmgerarcodbarra.pas' {frmGerarcodbarrapv};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmGerarcodbarrapv, frmGerarcodbarrapv);
+  Application.Run;
+end.

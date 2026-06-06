@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/30 19:06:14.000.721,=C:\Users\Macintosh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/22 14:12:08.000.758,=C:\Users\Macintosh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/04 10:59:22.000.961,=C:\Users\Macintosh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/04 11:01:04.000.737,C:\Users\Macintosh\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Fontes\Gerar codbarra\frmgerarcodbarra.pas</Transaction>
+    <Transaction>2022/12/04 11:01:04.000.737,C:\Users\Macintosh\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Fontes\Gerar codbarra\frmgerarcodbarra.dfm</Transaction>
+    <Transaction>2022/12/04 11:01:07.000.656,C:\Users\Macintosh\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Fontes\Gerar codbarra\Project1.dproj</Transaction>
+    <Transaction>2023/01/09 16:48:28.000.486,C:\Fontes\Gerar codbarra\Project1.dproj=C:\Fontes\Gerar codbarra\Project1.dproj</Transaction>
+    <Transaction>2023/01/09 16:58:36.017,C:\Fontes\View\ugerarcodbarrapv.dfm=C:\Fontes\Gerar codbarra\frmgerarcodbarra.dfm</Transaction>
+    <Transaction>2023/01/09 16:58:36.017,C:\Fontes\View\ugerarcodbarrapv.pas=C:\Fontes\Gerar codbarra\frmgerarcodbarra.pas</Transaction>
+  </Transactions>
+</BorlandProject>
